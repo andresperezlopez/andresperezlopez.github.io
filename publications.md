@@ -19,7 +19,7 @@ First International Conference on Technologies for Music Notation and Representa
 Paris, France. 2015.
 
 ## Talks
-*****************
+=================
 
 Perez-Lopez, A.
 [Live 3D Sound Spatialization with 3Dj](http://lac.linuxaudio.org/2015/video.php?id=6).
