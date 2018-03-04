@@ -25,9 +25,8 @@ Source code: https://github.com/andresperezlopez/3Dj
 
 Demo video: https://vimeo.com/115880955
 
-<a href="https://vimeo.com/115880955
-" target="_blank"><img src="https://i.vimeocdn.com/video/502039577_640.webp"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![3Dj demo](https://i.vimeocdn.com/video/502039577_640.webp")](https://vimeo.com/115880955")
+
 
 ### RTML: Real-Time Machine Listening
 
