@@ -4,9 +4,9 @@ title: code
 permalink: /code/
 ---
 
-## ongoing projects
+# ongoing projects
 
-### AmbiScaper
+## AmbiScaper
 
 **AmbiScaper** is a `python` library for automatic generation and annotation of reverberant Ambisonics datasets.
 
@@ -18,10 +18,10 @@ Source code: <https://github.com/andresperezlopez/ambiscaper
 
 
 
-## past projects
+# past projects
 
 
-### 3Dj
+## 3Dj
 
 **3Dj**, a framework for real-time sound spatialization in `SuperCollider`.
 
@@ -30,7 +30,7 @@ Source code: <https://github.com/andresperezlopez/3Dj>
 [![3Dj demo](https://i.vimeocdn.com/video/502039577_640.webp)](https://vimeo.com/115880955)
 
 
-### RTML: Real-Time Machine Listening
+## RTML: Real-Time Machine Listening
 
 **RTML** is a convenience GUI/OSC wrapper for real-time Music Information Retrieval in `SuperCollider`, intended for artistic purposes. Partially funded by [Telenoika](http://www.telenoika.net/)'s *Research and Development Grants 2013*.
 
@@ -39,7 +39,7 @@ Source code: <https://github.com/andresperezlopez/RTML>
 [![RTML demo](https://i.vimeocdn.com/video/504860053_640.webp)](https://vimeo.com/115880955)
 
 
-### BigramEditor
+## BigramEditor
 
 The **Bigram** is a musical notation system, designed to ease music learning and exploit psychoacoustical cues. The **BigramEditor** is the reference editor implemented in `SuperCollider`.
 
@@ -48,7 +48,7 @@ Source code: <https://github.com/andresperezlopez/Bigram>
 Reference paper: <https://zenodo.org/record/923759>
 
 
-### MyoRawOSC
+## MyoRawOSC
 
 Custom `python` hack which allows to connect to a Myo without the official SDK, and send the data through OSC.
 
@@ -58,7 +58,7 @@ Source code: <https://github.com/andresperezlopez/myo_raw>
 
 
 
-### Sonification
+## Sonification
 
 Several data **sonification** projects, using `python`, `SuperCollider` and `NetLogo`.
 Including *magnetic spaces*, winner of the [ICAD 2015 Sonification Contest](https://iem.kug.ac.at/icad15/icad15/schedule/sonification-contest.html#c39019)
