@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## In Proceedings
-*****************
+=================
 
 Perez-Lopez, A.
 [3Dj: a SuperCollider Framework for Real-Time Sound Spatialization](http://doi.org/10.5281/zenodo.1188323).
@@ -32,7 +32,7 @@ Linux Audio Conference - LAC 2015.
 JGU Mainz, Germany. 2015.
 
 ## PhD Proposal
-*****************
+---------------
 
 Perez-Lopez, A.
 [Immersive Audiovisual Production Enhancement based on 3D Audio](https://zenodo.org/record/1188325).
