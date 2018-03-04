@@ -4,34 +4,61 @@ title: code
 permalink: /code/
 ---
 
-## ongoing projects
+# ongoing projects
 
-#### AmbiScaper
+### AmbiScaper
 
 **AmbiScaper** is a `python` library for automatic generation and annotation of reverberant Ambisonics datasets.
 
-Project website: https://andresperezlopez.github.io/ambiscaper/
+Project website: <https://andresperezlopez.github.io/ambiscaper/>
 
-Source code: https://github.com/andresperezlopez/ambiscaper
+Source code: <https://github.com/andresperezlopez/ambiscaper>
 
 
-## Past Projects
+# past projects
 
-#### 3Dj
+
+### 3Dj
 
 **3Dj**, an framework for real-time sound spatialization in `SuperCollider`.
 
-Source code: https://github.com/andresperezlopez/3Dj
+Source code: <https://github.com/andresperezlopez/3Dj>
 
-Demo video: https://vimeo.com/115880955
-
-[![3Dj demo](https://i.vimeocdn.com/video/502039577_640.webp")](https://vimeo.com/115880955")
+[![3Dj demo](https://i.vimeocdn.com/video/502039577_640.webp)](https://vimeo.com/115880955)
 
 
-### RTML: Real-Time Machine Listening
+## RTML: Real-Time Machine Listening
 
-### Bigram
+**RTML** is a convenience GUI/OSC wrapper for real-time Music Information Retrieval in `SuperCollider`, intended for artistic purposes. Partially funded by [Telenoika](http://www.telenoika.net/)'s *Research and Development Grants 2013*.
 
-### Sonification
+Source code: <https://github.com/andresperezlopez/RTML>
 
-### Cellular Automata Library
+[![RTML demo](https://i.vimeocdn.com/video/504860053_640.webp)](https://vimeo.com/115880955)
+
+
+## BigramEditor
+
+The **Bigram** is a musical notation system, designed to ease music learning and exploit psychoacoustical cues. The **BigramEditor** is the reference editor implemented in `SuperCollider`.
+
+Source code: <https://github.com/andresperezlopez/Bigram>
+
+Reference paper: <https://zenodo.org/record/923759>
+
+
+## MyoRawOSC
+
+Custom `python` hack which allows to connect to a Myo without the official SDK, and send the data through OSC.
+
+Source code: <https://github.com/andresperezlopez/myo_raw>
+
+[![MyoRawOSC demo](https://i.vimeocdn.com/video/551040123_640.webp)](https://vimeo.com/151326521)
+
+
+
+## Sonification
+
+Several data **sonification** projects, using `python`, `SuperCollider` and `NetLogo`.
+
+Source code: <https://github.com/andresperezlopez/sonification>
+
+[![Sonification Demo](https://i.vimeocdn.com/video/526285341_640.webp)](https://vimeo.com/133276639)
