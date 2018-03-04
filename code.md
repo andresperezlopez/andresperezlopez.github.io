@@ -21,7 +21,7 @@ Source code: <https://github.com/andresperezlopez/ambiscaper>
 
 
 ## past projects
-****************
+*******************
 
 
 ## 3Dj
