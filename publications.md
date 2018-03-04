@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## In Proceedings
-=================
+_____
 
 Perez-Lopez, A.
 [3Dj: a SuperCollider Framework for Real-Time Sound Spatialization](http://doi.org/10.5281/zenodo.1188323).
@@ -19,7 +19,7 @@ First International Conference on Technologies for Music Notation and Representa
 Paris, France. 2015.
 
 ## Talks
-=================
+_____
 
 Perez-Lopez, A.
 [Live 3D Sound Spatialization with 3Dj](http://lac.linuxaudio.org/2015/video.php?id=6).
