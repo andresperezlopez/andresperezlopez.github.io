@@ -18,6 +18,7 @@ Perez-Lopez, A., Alcantara, J.M. & Kientz, B.
 First International Conference on Technologies for Music Notation and Representation - TENOR2015.
 Paris, France. 2015.
 
+
 ## Talks
 _____
 
@@ -31,6 +32,7 @@ Perez-Lopez, A.
 Linux Audio Conference - LAC 2015.
 JGU Mainz, Germany. 2015.
 
+
 ## PhD Proposal
 ---------------
 
@@ -40,6 +42,7 @@ PhD Research Proposal.
 Music Technology Group - Pompeu Fabra University.
 Barcelona, September 2017
 
+
 ## Master Thesis
 ****************
 
@@ -48,6 +51,7 @@ Perez-Lopez, A.
 Master in Sound and Music Computing.
 Music Technology Group - Pompeu Fabra University.
 Barcelona, 2014
+
 
 ## Other
 *****************
