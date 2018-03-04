@@ -6,7 +6,7 @@ permalink: /divulgation/
 
 ## El Sonido Binaural
 
-Interview about binaural sound for *Radio Nacional Española*, the spanish public broadcasting company. Barcelona, January 2018 [ESP].
+Interview about binaural sound for *Radio Nacional de España*, the spanish public broadcasting company. Barcelona, January 2018 [ESP].
 
 [Longitud de Onda: El Sonido Binaural](http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-sonido-binaural-16-01-18/4424419/)
 
@@ -23,7 +23,7 @@ Invited talk about Spatial Sound at the Universidad Austral de Chile. Valdivia, 
 
 Introduction to Music Technology for musicians. Invited talk at Unión Musical Santa Cecilia de Villar del Arzobispo, Valencia, Spain, October 2014 [ESP].
 
-[Tecnología para la Música (teaser)](https://vimeo.com/110881138)
+[Tecnología para la Música (summary)](https://vimeo.com/110881138)
 
 [Tecnología para la Música (full video)](https://vimeo.com/112113727)
 
