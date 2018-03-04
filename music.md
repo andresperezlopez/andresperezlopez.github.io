@@ -13,7 +13,7 @@ World Music.
 
 ## Fanfarrai
 
-Modern interpretation of traditional brass music from the Balkans.
+Modern interpretation of traditional Balkan brass music.
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1602279560/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="http://fanfarrai.bandcamp.com/album/fanfarrai">Fanfarrai by Fanfarrai</a></iframe>
 
