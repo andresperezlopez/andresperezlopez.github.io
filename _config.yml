@@ -1,2 +1,11 @@
+title: Andres Perez Lopez personal website
 name: Andres Perez Lopez
+email: andres.perez@upf.edu
+
+description: >
+  Personal website
+url: "http://andresperezlopez.github.io"
+twitter_username: 
+github_username: andresperezlopez
+
 markdown: kramdown
