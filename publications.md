@@ -45,16 +45,10 @@ Master in Sound and Music Computing
 Music Technology Group - Pompeu Fabra University
 Barcelona, 2014
 
+## Other
 
-## ORCID
+### OrcID
 <a href="https://orcid.org/0000-0001-7324-0548" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7324-0548</a>
 
-
-
-
-
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
+### Google Scholar
+[https://scholar.google.es/citations?user=e-s-24YAAAAJ&hl]
