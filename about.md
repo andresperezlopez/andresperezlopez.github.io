@@ -4,10 +4,12 @@ title: about
 permalink: /about/
 ---
 
-About
 
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Research Engineer at Multimedia Technologies Unit, [Eurecat (Technology Centre of Catalonia)](https://eurecat.org/), Barcelona
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Rea-Time Audio Developer at [Sfëar](www.sfear.com)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
+PhD Candidate at the [Music Technology Group](https://www.upf.edu/web/mtg), *Pompeu Fabra University*, Barcelona
+
+
+[view full cv](./CV.pdf)

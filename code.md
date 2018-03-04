@@ -14,7 +14,7 @@ Project website: <https://andresperezlopez.github.io/ambiscaper/>
 
 Source code: <https://github.com/andresperezlopez/ambiscaper>
 
-[[https://github.com/andresperezlopez/ambiscaper/blob/master/ambiscaper_logo.png|alt=octocat]]
+[https://github.com/andresperezlopez/ambiscaper/blob/master/ambiscaper_logo.png|alt=octocat]
 
 
 
