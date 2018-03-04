@@ -4,8 +4,6 @@ title: publications
 permalink: /publications/
 ---
 
-# Publications
-
 ## In Proceedings
 
 Perez-Lopez, A.
@@ -33,6 +31,12 @@ JGU Mainz, Germany. 2015.
 
 ## PhD Proposal
 
+Perez-Lopez, A.
+[Immersive Audiovisual Production Enhancement based on 3D Audio](https://zenodo.org/record/1188325)
+PhD Research Proposal
+Music Technology Group - Pompeu Fabra University
+Barcelona, September 2017
+
 ## Master Thesis
 
 Perez-Lopez, A.
@@ -40,7 +44,6 @@ Perez-Lopez, A.
 Master in Sound and Music Computing
 Music Technology Group - Pompeu Fabra University
 Barcelona, 2014
-
 
 
 ## ORCID
