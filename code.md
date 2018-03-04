@@ -4,7 +4,9 @@ title: code
 permalink: /code/
 ---
 
-# ongoing projects
+ongoing projects
+================
+
 
 ## AmbiScaper
 
@@ -18,7 +20,8 @@ Source code: <https://github.com/andresperezlopez/ambiscaper>
 
 
 
-# past projects
+past projects
+-------------
 
 
 ## 3Dj
