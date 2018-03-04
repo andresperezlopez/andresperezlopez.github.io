@@ -5,6 +5,7 @@ permalink: /code/
 ---
 
 ## ongoing projects
+
 *******************
 
 
@@ -21,6 +22,7 @@ Source code: <https://github.com/andresperezlopez/ambiscaper>
 
 
 ## past projects
+
 *******************
 
 
