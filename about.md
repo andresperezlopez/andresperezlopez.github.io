@@ -12,4 +12,4 @@ Real-Time Audio Developer at [Sfëar](https://www.sfear.com)
 PhD Candidate at the [Music Technology Group](https://www.upf.edu/web/mtg), *Pompeu Fabra University*, Barcelona
 
 
-[view full cv](./CV.pdf)
+[download full cv](./CV.pdf)
