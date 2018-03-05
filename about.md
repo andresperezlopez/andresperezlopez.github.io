@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Research Engineer at the *Multimedia Technologies Unit*, [Eurecat (Technology Centre of Catalonia)](https://eurecat.org/), Barcelona
+Research Engineer at the *Multimedia Technologies Unit*, [Eurecat (Technology Center of Catalonia)](https://eurecat.org/), Barcelona
 
 Real-Time Audio Developer at [Sfëar](https://www.sfear.com)
 
