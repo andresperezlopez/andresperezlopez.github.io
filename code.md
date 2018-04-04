@@ -20,6 +20,13 @@ Source code: <https://github.com/andresperezlopez/ambiscaper>
 ![alt text](https://github.com/andresperezlopez/ambiscaper/blob/master/ambiscaper_logo.png?raw=true "AmbiScaper")
 
 
+## SOFA::AmbisonicsDRIR
+
+**AmbisonicsDRIR** is a SOFA Convention proposal, currently under development, which aims to create a compact, standardized file format for storing Directional Room Impulse Responses in the Ambisonics domain. 
+
+Source code: <https://github.com/andresperezlopez/API_Cpp>
+
+
 
 ## past projects
 
