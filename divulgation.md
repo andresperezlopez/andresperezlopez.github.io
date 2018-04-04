@@ -34,7 +34,7 @@ Introduction to Music Technology for musicians. Invited talk at Unión Musical S
 
 Summary of the *Music Perception and Cognition* 2013 course from the *Master in Sound and Music Computing*, Pompeu Fabra University, Barcelona, 2013 [ENG].
 
-[Music Perception and Cognition](http://www.andresperezlopez.com/sites/default/files/Music_perception_and_cognition.pdf)
+[Music Perception and Cognition](https://andresperezlopez.github.io/Music_perception_and_cognition.pdf)
 
 
 
@@ -42,7 +42,7 @@ Summary of the *Music Perception and Cognition* 2013 course from the *Master in 
 
 Simplified theoretical introduction to Tonal Harmony. 2014 [ESP].
 
-[Armonía Básica](file:///Users/andres.perez/Downloads/armoniabasica.pdf)
+[Armonía Básica](https://andresperezlopez.github.io/armoniabasica.pdf)
 
 
 
