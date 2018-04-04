@@ -17,6 +17,7 @@ Invited talk about Spatial Sound at the Universidad Austral de Chile. Valdivia, 
 
 [El Sonido 3D](https://videoteca.uach.cl/videos/video/2519/)
 
+[El Sonido 3D (slides)](https://github.com/andresperezlopez/andresperezlopez.github.io/valdivia.pdf)
 
 
 ## Talk about Music Technology
