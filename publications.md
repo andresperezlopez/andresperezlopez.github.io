@@ -4,13 +4,15 @@ title: publications
 permalink: /publications/
 ---
 
-## In Proceedings
+## Proceedings
 
 ---
 
+
+
 Perez-Lopez, A.
 [3Dj: a SuperCollider Framework for Real-Time Sound Spatialization](http://doi.org/10.5281/zenodo.1188323).
-On Proceedings of the 21st International Conference on Auditory Display, pp. 166-173.
+In Proceedings of the 21st International Conference on Auditory Display, pp. 166-173.
 Graz, Austria. 2015
 
 
