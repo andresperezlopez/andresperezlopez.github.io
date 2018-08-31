@@ -8,6 +8,9 @@ permalink: /code/
 
 *******************
 
+## pysofaconventions
+
+`python` implementation of the {Spatially Oriented Format for Acoustics](www.sofaconventions.org) 
 
 ## AmbiScaper
 
