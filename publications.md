@@ -8,7 +8,6 @@ permalink: /publications/
 
 Pérez-López, A.
 [Ambiscaper: A Tool for Automatic Generation and Annotation of Reverberant Ambisonics Sound Scenes](https://ieeexplore.ieee.org/abstract/document/8521341).
-Pérez-López, A. & De Muynke, J. 
 IWAENC 2018, Tokyo, Japan.
 IEEE, 2018.
 
