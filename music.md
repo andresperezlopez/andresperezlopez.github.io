@@ -8,10 +8,11 @@ permalink: /music/
 
 World Music.
 
+<iframe src="https://open.spotify.com/embed/album/6HGH201niODBlqlBgrfjyk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
 <iframe src="https://open.spotify.com/embed/album/3aUfO6dFK3FEnXGnO4BLoT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
-<iframe src="https://open.spotify.com/embed/album/6HGH201niODBlqlBgrfjyk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ## Fanfarrai
