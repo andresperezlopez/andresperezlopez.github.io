@@ -6,9 +6,10 @@ permalink: /music/
 
 ## Balkumbia
 
+<iframe src="https://open.spotify.com/embed/album/3aUfO6dFK3FEnXGnO4BLoT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 World Music.
 
-<iframe src="https://open.spotify.com/embed/album/3aUfO6dFK3FEnXGnO4BLoT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2178214421/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="http://balkumbia.bandcamp.com/album/balkumbia">Balkumbia by Balkumbia</a></iframe>
 
