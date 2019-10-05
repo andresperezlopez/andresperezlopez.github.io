@@ -7,7 +7,9 @@ permalink: /dissemination/
 ## Talk on Spatial Sound for Musicians
 
 Invited talk about Spatial Sound at the *Conservatorio Superior de Música Joaquín Rodrigo*. Valencia, Spain, April 2018 [ESP].
-Opening of the *Sonology Workshop 2018*.
+
+
+Opening of the [*Sonology Workshop 2018*](https://csmvalencia.es/2018/04/20/jornades-de-sonologia-2018-jornadas-de-sonologia-2018/)
 
 [Sonido 3D: Fundamentos y Aplicaciones (slides)](https://andresperezlopez.github.io/csmv.pdf)
 
