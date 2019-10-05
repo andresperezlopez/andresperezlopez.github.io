@@ -1,8 +1,16 @@
 ---
 layout: page
-title: divulgation
-permalink: /divulgation/
----
+title: dissemination
+permalink: /dissemination/
+--- 
+
+## Talk on Spatial Sound for Musicians
+
+Invited talk about Spatial Sound at the *Conservatorio Superior de Música Joaquín Rodrigo*. Valencia, Spain, April 2018 [ESP].
+Opening of the *Sonology Workshop 2018*.
+
+[Sonido 3D: Fundamentos y Aplicaciones (slides)](https://andresperezlopez.github.io/csmv.pdf)
+
 
 ## El Sonido Binaural
 
@@ -13,7 +21,7 @@ Interview about binaural sound for *Radio Nacional de España*, the spanish publ
 
 ## Talk about Spatial Sound
 
-Invited talk about Spatial Sound at the Universidad Austral de Chile. Valdivia, Chile, October 2017 [ESP].
+Invited talk about Spatial Sound at the *Universidad Austral de Chile*. Valdivia, Chile, October 2017 [ESP].
 
 [El Sonido 3D](https://videoteca.uach.cl/videos/video/2519/)
 
