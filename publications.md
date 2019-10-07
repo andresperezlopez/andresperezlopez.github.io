@@ -7,16 +7,14 @@ permalink: /publications/
 ## Journals
 
 Pérez-López, A. & Stefanakis, N.
-[Analysis of spherical isotropic noise fields with an A-Format tetrahedral microphone]
-(https://asa.scitation.org/doi/10.1121/1.5127736)
+[Analysis of spherical isotropic noise fields with an A-Format tetrahedral microphone](https://asa.scitation.org/doi/10.1121/1.5127736)
 Journal of the Acoustic Society of America 146 (4), EL329–EL334.
 
 
 ## In Proceedings
 
 Pérez-López, A., Fonseca, E. & Serra. X.
-[A hybrid parametric-deep learning approach for sound event localization and detection]
-(https://arxiv.org/pdf/1908.10133.pdf)
+[A hybrid parametric-deep learning approach for sound event localization and detection](https://arxiv.org/pdf/1908.10133.pdf)
 DCASE 2019 Workshop, New York, USA. 
 IEEE, 2019.
 
