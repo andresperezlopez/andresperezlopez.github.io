@@ -24,7 +24,7 @@ IWAENC 2018, Tokyo, Japan.
 IEEE, 2018.
 
 Pérez-López, A. & De Muynke, J. 
-[Ambisonics Directional Room Impulse Response as a New Convention of the Spatially Oriented Format for Acoustics](http://www.aes.org/tmpFiles/elib/20180708/19560.pdf). [[slides]](https://binci.eu/wp-content/uploads/2018/06/EBrief_AES_Milan_compressed.pdf)
+[Ambisonics Directional Room Impulse Response as a New Convention of the Spatially Oriented Format for Acoustics](http://www.aes.org/e-lib/browse.cfm?elib=19560). [[slides]](https://binci.eu/wp-content/uploads/2018/06/EBrief_AES_Milan_compressed.pdf)
 Audio Engineering Society Convention 144, Milan, Italy. 
 Audio Engineering Society, 2018.
 
