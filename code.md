@@ -8,9 +8,18 @@ permalink: /code/
 
 *******************
 
+## masp
+Microphone Array Signal Processing library.
+
+`python` port of the wonderful acoustic simulation [MATLAB libraries from A. Politis](https://github.com/polarch/).
+
+Source code: <https://github.com/andresperezlopez/masp>
+
 ## pysofaconventions
 
 `python` implementation of the [Spatially Oriented Format for Acoustics](http://www.sofaconventions.org) 
+
+Source code: <https://github.com/andresperezlopez/pysofaconventions>
 
 ## AmbiScaper
 
