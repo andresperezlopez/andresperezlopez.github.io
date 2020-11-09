@@ -13,6 +13,38 @@ Journal of the Acoustic Society of America 146 (4), EL329–EL334.
 
 ## In Proceedings
 
+Pérez-López, A., Politis, A. & Gómez, E.
+Blind reverberation time estimation from ambisonic recordings.
+*Best Paper Runner-up award*.
+MMSP 2020, Tampere, Finland. 
+IEEE, 2020.
+
+Pérez-López, A. & Ibañez-Usach, R.
+[Papafil: A Low Complexity Sound Event Localization and Detection Method with Parametric Particle Filtering and Gradient Boosting](http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Perez-Lopez_13.pdf).
+*Judges' award*.
+DCASE 2020 Workshop, Tokyo, Japan. 
+IEEE, 2020.
+
+Ronchini, F., Arteaga, D. & Pérez-López, A.
+[Sound event localization and detection based on crnn using rectangular filters and channel rotation data augmentation](https://arxiv.org/pdf/2010.06422.pdf).
+DCASE 2020 Workshop, Tokyo, Japan. 
+IEEE, 2020.
+
+Pérez-López, A.
+[A Python library for Multichannel Acoustic Signal Processing](https://www.aes.org/tmpFiles/elib/20201109/20807.pdf). 
+Audio Engineering Society Convention 148, Vienna, Austria. 
+Audio Engineering Society, 2020.
+
+Pérez-López, A.
+[pysofaconventions, a Python API for SOFA](https://www.aes.org/tmpFiles/elib/20201109/20806.pdf). 
+Audio Engineering Society Convention 148, Vienna, Austria. 
+Audio Engineering Society, 2020.
+
+Pérez-López, A., Fonseca, E. & Serra. X.
+[A hybrid parametric-deep learning approach for sound event localization and detection](https://arxiv.org/pdf/1908.10133.pdf).
+DCASE 2019 Workshop, New York, USA. 
+IEEE, 2019.
+
 Pérez-López, A., Fonseca, E. & Serra. X.
 [A hybrid parametric-deep learning approach for sound event localization and detection](https://arxiv.org/pdf/1908.10133.pdf).
 DCASE 2019 Workshop, New York, USA. 
