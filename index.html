@@ -1,11 +1,5 @@
-<div id="content"></div>
+---
+layout: default
+---
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-<script>
-  fetch('/about.md')
-    .then(response => response.text())
-    .then(text => {
-      document.getElementById('content').innerHTML = marked(text);
-    });
-</script>
+{% include about.md %}
