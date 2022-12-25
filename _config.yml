@@ -1,11 +1,9 @@
 # Site settings
 title: Andrés Pérez López
-email: andres.perez@voicemod.net
+email: contact@andresperezlopez.com
 description: "Andrés Pérez López personal website"
 # baseurl: "/jekyll-example"
 url: "http://andresperezlopez.github.io"
-twitter_username: _aperezlopez
-github_username:  andresperezlopez
 
 # Build settings
 markdown: kramdown
