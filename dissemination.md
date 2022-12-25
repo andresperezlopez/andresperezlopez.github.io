@@ -4,6 +4,15 @@ title: dissemination
 permalink: /dissemination/
 --- 
 
+## Radio Ciencia
+
+Regular collaborator in Radio Ciencia, a weekly podcast about science dissemination. 2022 [ESP].
+
+- [Musical Tuning I](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-i-audios-mp3_rf_92280484_1.html)
+- [Musical Tuning II](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-ii-audios-mp3_rf_92580970_1.html)
+- [Numeral Systems I](https://www.ivoox.com/en/sistemas-numeracion-i-de-palitos-al-audios-mp3_rf_94751619_1.html)
+- [Numeral Systems II](https://www.ivoox.com/en/sistemas-numeracion-ii-y-eso-llego-el-audios-mp3_rf_95173358_1.html)
+- [Radar, sonar and echolocation](https://www.ivoox.com/en/sonar-radar-ecolocalizacion-audios-mp3_rf_97920608_1.html)
 
 ## Digital Lutherie
 
