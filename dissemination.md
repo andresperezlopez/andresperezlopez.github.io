@@ -9,7 +9,13 @@ permalink: /dissemination/
 
 Slides of the course about Digital Musical Instrument Design at ENTI, Barcelona University. 2018.
 
-[Communication Protocols](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Communication%20Protocols/communication_protocols.pdf))
+[Presentation](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Presentation/presentation.pdf)
+[Introduction](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Introduction%20to%20DMI%20Design/introduction.pdf)
+[Control Interfaces](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Control%20Interfaces/control_interfaces.pdf)
+[Sound Synthesis](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Sound%20Synthesis/sound_synthesis.pdf)
+[Feedback and Interactivity](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Feedback%20%26%20Interactivity/feedback_interactivity.pdf)
+[Communication Protocols](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Communication%20Protocols/communication_protocols.pdf)
+[Design Considerations](https://github.com/andresperezlopez/ENTI_Slides/blob/master/Design%20Considerations/design_considerations.pdf)
 
 
 ## Talk on Spatial Sound for Musicians
