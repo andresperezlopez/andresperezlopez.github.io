@@ -6,7 +6,7 @@ permalink: /dissemination/
 
 ## Radio Ciencia
 
-Regular collaborator in Radio Ciencia, a weekly podcast about science dissemination. 2022-2023 [ESP].
+Regular collaborator in [Radiociencia](https://www.ivoox.com/podcast-radiociencia_sq_f1251300_2.html), a weekly podcast about science dissemination. 2022-2023 [ESP].
 
 - [Musical Tuning I](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-i-audios-mp3_rf_92280484_1.html)
 - [Musical Tuning II](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-ii-audios-mp3_rf_92580970_1.html)
