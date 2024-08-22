@@ -6,13 +6,19 @@ permalink: /dissemination/
 
 ## Radio Ciencia
 
-Regular collaborator in Radio Ciencia, a weekly podcast about science dissemination. 2022 [ESP].
+Regular collaborator in Radio Ciencia, a weekly podcast about science dissemination. 2022-2023 [ESP].
 
 - [Musical Tuning I](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-i-audios-mp3_rf_92280484_1.html)
 - [Musical Tuning II](https://www.ivoox.com/en/afinar-o-desafinar-esa-es-cuestion-ii-audios-mp3_rf_92580970_1.html)
 - [Numeral Systems I](https://www.ivoox.com/en/sistemas-numeracion-i-de-palitos-al-audios-mp3_rf_94751619_1.html)
 - [Numeral Systems II](https://www.ivoox.com/en/sistemas-numeracion-ii-y-eso-llego-el-audios-mp3_rf_95173358_1.html)
 - [Radar, sonar and echolocation](https://www.ivoox.com/en/sonar-radar-ecolocalizacion-audios-mp3_rf_97920608_1.html)
+- [Chat GPT](https://www.ivoox.com/chat-gpt-la-tecnologia-lenguaje-natural-audios-mp3_rf_101905265_1.html)
+- [Binaural Sound](https://www.ivoox.com/sonido-binaural-mas-alla-del-estereo-audios-mp3_rf_104496758_1.html)
+- [Computer Virus](https://www.ivoox.com/virus-informaticos-enemigo-invisible-era-audios-mp3_rf_108247369_1.html)
+- [Internet](https://www.ivoox.com/internet-o-telarana-global-audios-mp3_rf_109186641_1.html)
+- [Software Programming](https://www.ivoox.com/programacion-informatica-algoritmos-accion-audios-mp3_rf_111190778_1.html)
+
 
 ## Digital Lutherie
 
